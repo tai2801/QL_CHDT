@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.16)
+project(PhoneStore CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_executable(phone_store src/main.cpp src/Phone.cpp src/Store.cpp src/Invoice.cpp src/utils.cpp)
+add_executable(run_tests tests/test_store.cpp src/Phone.cpp src/Store.cpp src/Invoice.cpp src/utils.cpp)
+enable_testing()
+add_test(NAME store_tests COMMAND run_tests)

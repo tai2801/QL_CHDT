@@ -1,0 +1,10 @@
+*.o
+*.obj
+*.exe
+phone_store
+run_tests
+build/
+*.out
+.DS_Store
+.vscode/
+.idea/
