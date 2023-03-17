@@ -1,0 +1,10 @@
+DT001,iPhone 14 Pro Max,Apple,29990000,15
+DT002,iPhone 14,Apple,22990000,20
+DT003,Samsung Galaxy S23 Ultra,Samsung,31990000,12
+DT004,Samsung Galaxy Z Flip 4,Samsung,21990000,8
+DT005,Xiaomi 13 Pro,Xiaomi,18990000,25
+DT006,OPPO Reno 8T,OPPO,10990000,30
+DT007,Vivo V27e,Vivo,11990000,18
+DT008,Google Pixel 7 Pro,Google,24990000,10
+DT009,Realme 10 Pro Plus,Realme,8990000,22
+DT010,Nokia G22,Nokia,4990000,40
